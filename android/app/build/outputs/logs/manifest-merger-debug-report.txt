@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] C:\Users\babaiyu\Desktop\react-native\qwer\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] C:\Users\babaiyu\Desktop\react-native\qwer\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\62f232c7c1f922178e4b039e3986badc\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f1ddfa51b4c10ab6ad5422460d2da17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\97593fc5ee33f5cfbec133ed57a1d102\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0c74b3e7351b22c68365a8dff4e1d60e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e3714785610a3b3ed16cabd696d024a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a4e51a53672d762a5d0236c6a7a9458\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\47d44e9d6079d9e7481b3eb2a49840dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cf76264aa350a9a2321a9b03186d06b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\89a60cfb0ddcd6cb5654410b33de2a87\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\65951dfc130a124aa07f4d93c86c484c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\4a176f436d2937d87f44fb37242b8895\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9ea306c8b190e17baed1131992bfe82c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d07d3672aefdd946de0b404c6b8e7089\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5e608313e35d43db8e91df1a1c32890c\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\03e8f5ca2095e6b7ef15b036cd96a615\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1735496a069723958bf650bb2310ae14\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\056e1a700a76a450c856e04f5df341ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\fd839fc8cd0b415df6914e4d34e32e36\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4022f39a828224c35e25283f210cda51\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f3cfa65d4da1c5adf5f8baaf6b81e65c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:2:5-23
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\62f232c7c1f922178e4b039e3986badc\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\62f232c7c1f922178e4b039e3986badc\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\62f232c7c1f922178e4b039e3986badc\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\62f232c7c1f922178e4b039e3986badc\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5e608313e35d43db8e91df1a1c32890c\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5e608313e35d43db8e91df1a1c32890c\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\03e8f5ca2095e6b7ef15b036cd96a615\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\03e8f5ca2095e6b7ef15b036cd96a615\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.qwer.MainActivity
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] C:\Users\babaiyu\Desktop\react-native\qwer\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\babaiyu\Desktop\react-native\qwer\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Users\babaiyu\Desktop\react-native\qwer\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Users\babaiyu\Desktop\react-native\qwer\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\62f232c7c1f922178e4b039e3986badc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\react-native-0.57.7.aar\62f232c7c1f922178e4b039e3986badc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f1ddfa51b4c10ab6ad5422460d2da17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4f1ddfa51b4c10ab6ad5422460d2da17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\97593fc5ee33f5cfbec133ed57a1d102\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\97593fc5ee33f5cfbec133ed57a1d102\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0c74b3e7351b22c68365a8dff4e1d60e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0c74b3e7351b22c68365a8dff4e1d60e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e3714785610a3b3ed16cabd696d024a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8e3714785610a3b3ed16cabd696d024a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a4e51a53672d762a5d0236c6a7a9458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a4e51a53672d762a5d0236c6a7a9458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\47d44e9d6079d9e7481b3eb2a49840dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\47d44e9d6079d9e7481b3eb2a49840dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cf76264aa350a9a2321a9b03186d06b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cf76264aa350a9a2321a9b03186d06b6\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\89a60cfb0ddcd6cb5654410b33de2a87\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\89a60cfb0ddcd6cb5654410b33de2a87\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\65951dfc130a124aa07f4d93c86c484c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\65951dfc130a124aa07f4d93c86c484c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\4a176f436d2937d87f44fb37242b8895\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\4a176f436d2937d87f44fb37242b8895\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9ea306c8b190e17baed1131992bfe82c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\9ea306c8b190e17baed1131992bfe82c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d07d3672aefdd946de0b404c6b8e7089\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\d07d3672aefdd946de0b404c6b8e7089\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5e608313e35d43db8e91df1a1c32890c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\5e608313e35d43db8e91df1a1c32890c\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1735496a069723958bf650bb2310ae14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1735496a069723958bf650bb2310ae14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\056e1a700a76a450c856e04f5df341ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\056e1a700a76a450c856e04f5df341ff\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\fd839fc8cd0b415df6914e4d34e32e36\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\fd839fc8cd0b415df6914e4d34e32e36\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4022f39a828224c35e25283f210cda51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4022f39a828224c35e25283f210cda51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f3cfa65d4da1c5adf5f8baaf6b81e65c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\babaiyu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f3cfa65d4da1c5adf5f8baaf6b81e65c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\babaiyu\Desktop\react-native\qwer\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
